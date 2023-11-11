@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276338606197",
+    "project_id": "lookadoc-292b6",
+    "storage_bucket": "lookadoc-292b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276338606197:android:8a5ec52d6d11bf9639383c",
+        "android_client_info": {
+          "package_name": "com.juliusbiascan.lookadoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWuUoLNFyZrgr8fUlrqia86pDwGXbnCjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
